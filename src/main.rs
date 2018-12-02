@@ -1,7 +1,8 @@
 extern crate adventofcode;
 
-use adventofcode::day1;
+use adventofcode::*;
 
 fn main() {
-    day1::run();
+    //day1::run();
+    day2::run();
 }
